@@ -6,3 +6,5 @@ This is Java code for these algorithms:
 -Rotating the characters in an array 
 -Index sorting 
 -Merging to string together  
+
+This repository also includes gradle to test the algorithms 
