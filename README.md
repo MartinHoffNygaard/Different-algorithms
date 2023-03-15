@@ -1,10 +1,15 @@
-This is Java code for these algorithms:   
--Finding largest number in an array  
--Finding number of unique numbers in a sorted array  
--Finding number of unique numbers in a unsorted array  
--Sorting an array into to parts with one containing odd numbers and the other even numbers  
--Rotating the characters in an array 
--Index sorting 
--Merging to string together  
+# Different algorithms created in Java
+Created some algorithms in Java from scratch. 
 
-This repository also includes gradle to test the algorithms 
+## Algorithms
+- Finding largest number in an array  
+- Finding total of unique numbers in a sorted array  
+- Finding total of unique numbers in a unsorted array  
+- Sorting an array into two parts with one containing odd numbers and the other even numbers  
+- Rotating the characters in an array 
+- Index sorting 
+- Merging two string together  
+
+### Technologies
+- Java
+- Gradle 
